@@ -57,6 +57,18 @@ If you just want to play around with HDDM for the workshop, I'd ***strongly*** r
   - If you screw up your virtual environment, you can delete it and start over! `conda remove -n pyHDDM --all`
 
 5. Install packages.
-  - macOS: https://groups.google.com/g/hddm-users/c/bdQXewfUzLs/m/iVasvmW3BwAJ
+  - macOS: My exact install sequence is included below, [adapted closely from here](https://groups.google.com/g/hddm-users/c/bdQXewfUzLs/m/iVasvmW3BwAJ).
   - Windows 10: https://groups.google.com/g/hddm-users/c/RpS9O9O7Fwc/m/P8ZyCpiqAwAJ
   - I'm told that installation on Linux is not so difficult, but don't have any personal experience one way or another.
+
+Jae's macOS install routine:
+```
+conda activate pyHDDM
+conda install conda-build
+conda install pymc=2.3.8 -c conda-forge
+conda install pandas patsy
+export MACOSX_DEPLOYMENT_TARGET=10.11
+pip install cython
+pip install hddm
+conda install jupyter
+```
