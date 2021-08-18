@@ -1,6 +1,12 @@
 # HDDM Tutorial: Carney Computational Modeling Workshop
 
-The HDDM GitHub page can be found [here](https://github.com/hddm-devs/hddm). The [online documentation](http://ski.clps.brown.edu/hddm_docs/) is as good as a textbook. If you need help, the [mailing list](https://groups.google.com/group/hddm-users/) is very responsive.
+The HDDM GitHub page can be found [here](https://github.com/hddm-devs/hddm).
+The [online documentation](http://ski.clps.brown.edu/hddm_docs/) is as good as a textbook.
+If you need help, the [mailing list](https://groups.google.com/group/hddm-users/) is very responsive.
+
+Here are some example of studies I've run using HDDM (with scripts):
+Manuscript: https://www.nature.com/articles/s41598-019-48050-2
+Data and scripts: https://osf.io/8ka47/
 
 # Playing around with HDDM on the cloud
 
