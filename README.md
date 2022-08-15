@@ -2,11 +2,11 @@
 
 ## Learning (H)DDM
 
-If you're new to drift diffusion modeling (DDM), you can watch a short video lecture on the topic by [clicking here](https://youtu.be/jzsl69VGseU). The slides to this talk are also available in this repository (`Intro to DDM CPC Zurich 2021.pdf`).
+If you're new to drift diffusion modeling (DDM), you can watch a short video lecture on the topic by [clicking here](https://youtu.be/jzsl69VGseU). The slides to this talk are also available in this repository (`slides/Intro to DDM CPC Zurich 2021.pdf`).
 
-You can find a conceptual overview of the model-fitting process in the slides entitled `Carney Modeling Workshop 2021 HDDM Demo.pdf`.
+You can find a conceptual overview of the model-fitting process in the slides entitled `slides/Carney Modeling Workshop 2021 HDDM Demo.pdf`.
 
-Sample code and additional self-learning material can be found in the Jupyter notebook entitled `hddm_tutorial_cpc_zurich_2021.ipynb`. In order to run this code, you will need to install HDDM.
+Sample code and additional self-learning material can be found in the Jupyter notebook entitled `hddm_tutorial_2022.ipynb`. In order to run this code, you will need to install HDDM.
 
 ## Installation notes
 
@@ -16,7 +16,7 @@ In this repository's [Wiki](https://github.com/psychNerdJae/hddm_tutorial_carney
 
 The HDDM GitHub page can be found [here](https://github.com/hddm-devs/hddm).
 
-The [online documentation](http://ski.clps.brown.edu/hddm_docs/) is as good as a textbook.
+The [online documentation](https://hddm.readthedocs.io/en/latest/index.html) is as good as a textbook.
 
 If you need help, the [mailing list](https://groups.google.com/group/hddm-users/) is very responsive.
 
